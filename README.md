@@ -5,11 +5,11 @@ In this automaton, enzymes join smaller molecules (substrates) into bigger molec
 
 <strong>States of a cell</strong> <br>
 In this simulation, different coloured cells represent different types of molecules. The colours are:
-● white, representing empty space
-● blue, representing a substrate particle
-● red, representing an enzyme
-● green, representing a product particle
-● black, representing an inhibited enzyme
+● white, representing empty space <br>
+● blue, representing a substrate particle <br>
+● red, representing an enzyme <br>
+● green, representing a product particle <br>
+● black, representing an inhibited enzyme <br>
 In the first generation, percentages of cells are randomly set to enzymes and substrates, and the rest of the cells are empty space. These percentages can be modified by changing the enzymeSaturation and substrateSaturation variables.
 
 <strong>Evolution rules</strong>
