@@ -3,7 +3,7 @@ This automaton models how enzymes catalyze chemical reactions in the human body.
 
 In this automaton, enzymes join smaller molecules (substrates) into bigger molecules (products). As the enzymes do their job, the substrate concentration decreases and the product concentration increases. However, as the product concentration increases, products are more likely to re-bind to enzymes, inhibiting enzymes from joining together substrates. This is called feedback inhibition and is a key method in slowing down enzymatic action when enough product has been produced.
 
-<strong>States of a cell</strong>
+<strong>States of a cell</strong> <br>
 In this simulation, different coloured cells represent different types of molecules. The colours are:
 ● white, representing empty space
 ● blue, representing a substrate particle
